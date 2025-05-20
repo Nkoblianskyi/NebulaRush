@@ -18,7 +18,6 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "GlacierVibe Hub - Skogens Vokter",
   description: "Et sosialt spill for underholdningsformål. Ingen ekte penger involvert.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
